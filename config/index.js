@@ -13,6 +13,9 @@ export const USER_CONFIG = {
   // 如果你非要填这里也行。脚本也能运行
   APP_SECRET: "f312206dab7bc2ce1a3e4011c4525d0e",
   
+  //001id
+  TEMPLATE_ID:"hN8um432RVf-RDnKpFCrgGNbWQdVvsybFNM9t1vGhXo",
+  
   // 是否给文字设置多彩颜色, 和emoji不兼容
   // 如果您使用了微信测试号的模板中含有emoji表情，请填 false
   IS_SHOW_COLOR: true,
@@ -57,7 +60,7 @@ export const USER_CONFIG = {
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔
    */
-  USERS: [“o8k3L5_Mp_UxeKZUF5pTt7hiUMSs”】
+  USERS: [o8k3L5_Mp_UxeKZUF5pTt7hiUMSs
     {
       // 想要发送的人的名字
       name: "老婆0",
